@@ -49,15 +49,19 @@ AI can help more people create and fix drawings, even if they are not artists. I
 This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawing is fixed using DALL·E 3 and Visual ChatGPT. AI is not only for automation but also supports creativity. It makes artistic work easier, helps beginners, and improves storytelling. Future research will develop AI for even better results.
 <!-- Introduction and Related Works -->
 
-[![4-comma][images-fig2]](https://example.com)
 
-*Figure 3. Brain storm*
+
 
 ## Introduction and Related Works
 
+[![4-comma][images-fig2]](https://example.com)
+
+*Figure 2  . The concept is based on a form originally hand-painted by an artist from the ancient era, dating back to around the 1st millennium BCE.*
+
+
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3  . key sentence for each representing a panel*
+*Figure 3  . table A:Mathematical formulas were applied to generate and transform symmetrical geometric patterns. *
 
 
 
