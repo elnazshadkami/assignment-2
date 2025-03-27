@@ -48,7 +48,7 @@ I recreated one of the traditional patterns in CAD. The original version was han
 
 <!-- Abstract -->
 ## Abstract
-In this project I create geometric patterns that are symmetrical and reflect along vertical (x=0) and horizontal (y=0) and slanted axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
+In this project I create geometric patterns that are symmetrical and reflect along vertical (x=0) and horizontal (y=0) and diagonal axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
