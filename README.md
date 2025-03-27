@@ -77,7 +77,7 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis are arranged to keep the pattern centered.*
 
 [![4-comma][images-fig5]](https://example.com)
-*Figure 5. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 5. Figure 1.9 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
 
 [![4-comma][images-fig6]](https://example.com)
 *Figure 6. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
