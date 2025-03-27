@@ -55,7 +55,7 @@ This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawi
 
 ## Introduction and Related Works
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig3]](https://example.com)
 
 *Figure 3  . key sentence for each representing a panel*
 
@@ -68,11 +68,11 @@ AI makes manga production faster, more flexible, and more accurate. However, pro
 This study explores how AI is changing Yonkoma manga. AI automates repetitive tasks, allowing people to focus more on storytelling. This helps them be more creative while keeping the manga’s unique style. As AI improves, it will enhance efficiency and artistic expression. AI will play a bigger role in digital manga and change how it is created in the future. Using AI instead of old methods will redefine manga creation.
 
 ## Methodology
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][images-fig4]](https://example.com)
 
 *Figure 4. key sentence for each representing a panel*
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig5]](https://example.com)
 *Figure 5. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 [![4-comma][images-fig3]](https://example.com)
