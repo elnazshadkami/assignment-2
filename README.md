@@ -72,14 +72,11 @@ Islamic geometric patterns are important in art and architecture because they ar
 *Figure 5. Figure 4.6 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
 
 [![4-comma][images-fig6]](https://example.com)
-*Figure 6.  used shape 4.8 to create a new module. The shapes were mirrored in diagonal, vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.
 
-   *
+*Figure 6.  used shape 4.8 to create a new module. The shapes were mirrored in diagonal, vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.*
 
 [![4-comma][images-fig7]](https://example.com)
-*Figure 7.I selected shape 4.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.
-
-.*
+*Figure 7.I selected shape 4.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.*
 
 [![4-comma][images-fig8]](https://example.com)
 
