@@ -25,7 +25,7 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
   <h3 align="center">assigment 2: Geametric pattern >
 
     
-Traditional patterns are important because they are related to history. Still, they are in danger of being forgotten because drawing them- incredibly complex ones based on geometry- is very difficult and time-consuming. In this project, I decided to take one of those traditional patterns and recreate it using technical tools. My goal was to give the pattern a modern concept and bring it back to life while making the process easier with software. I used CAD for all the steps, including design and geometry. These patterns often had very complex geometry in the past. Still, the software can handle those calculations automatically through commands, so we no longer need to do hard geometric math
+My project are bout recreat molude and generate it with CAD.traditional patterns are important because they are related to history. Still, they are in danger of being forgotten because drawing them- incredibly complex ones based on geometry- is very difficult and time-consuming. In this project, I decided to take one of those traditional patterns and recreate it using technical tools. My goal was to give the pattern a modern concept and bring it back to life while making the process easier with software. I used CAD for all the steps, including design and geometry. These patterns often had very complex geometry in the past. Still, the software can handle those calculations automatically through commands, so we no longer need to do hard geometric math
 
   <p align="center">
     <br />
