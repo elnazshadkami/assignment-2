@@ -61,7 +61,7 @@ In this project I create geometric patterns that are symmetrical and reflect alo
 
 
 
-Islamic geometric patterns are important in art and architecture because they are an archetype and heritage for Iran [1]. I chose the pictures of clay cups and paintings in this book [2] and recreate and generate more. In the past, artists who drew geometric patterns relied on traditional tools such as the compass and set square rather than digital software. They spent more time on precise manual calculations and understanding geometric principles, making the process complex [1]. I recreated six traditional geometric patterns and used four axes that are in table 555 for making reflection [2]. I understood that CAD Computer-Aided Design software is used to increase the designer's productivity, improve the design quality, and create a database for manufacturing. CAD output is often electronic files for print or other manufacturing operations[3]. With CAD, I can draw shapes much faster and more efficiently than old tools like the compass and set square. One challenge is that digital patterns can lose the handmade feeling of traditional art that is part of our heritage and can be forgotten over time. However, CAD is a powerful tool because it makes design faster and more adaptable for different creative projects in the digital world.
+Islamic geometric patterns are important in art and architecture because they are an archetype and heritage for Iran [1]. I chose the pictures of clay cups and paintings in this book [2] and recreate and generate more. In the past, artists who drew geometric patterns relied on traditional tools such as the compass and set square rather than digital software. They spent more time on precise manual calculations and understanding geometric principles, making the process complex [1]. I recreated six traditional geometric patterns and used four axes that are in table A for making reflection [2]. I understood that CAD Computer-Aided Design software is used to increase the designer's productivity, improve the design quality, and create a database for manufacturing. CAD output is often electronic files for print or other manufacturing operations[3]. With CAD, I can draw shapes much faster and more efficiently than old tools like the compass and set square. One challenge is that digital patterns can lose the handmade feeling of traditional art that is part of our heritage and can be forgotten over time. However, CAD is a powerful tool because it makes design faster and more adaptable for different creative projects in the digital world.
 
 ## Methodology
 [![4-comma][images-fig4]](https://example.com)
@@ -87,7 +87,7 @@ Islamic geometric patterns are important in art and architecture because they ar
 
 
 
-My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by reflecting the shape along α β δ γ axes that are  listed in Table 5555. 
+My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by reflecting the shape along α β δ γ axes that are  listed in Table A. 
 I realized the main pattern was created in a square, so I drew a square by this point A, B, A', B' and drew a rhombus inside the square(figure 4.3) 
 Arc is drawn from A center and R= AA1/2 (figure 4.4), and reflect along slanted line(BB’) (figure 4.5), 
 If BB' is L 
