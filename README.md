@@ -48,9 +48,16 @@ AI can help more people create and fix drawings, even if they are not artists. I
 ## Abstract
 This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawing is fixed using DALL·E 3 and Visual ChatGPT. AI is not only for automation but also supports creativity. It makes artistic work easier, helps beginners, and improves storytelling. Future research will develop AI for even better results.
 <!-- Introduction and Related Works -->
+
+[![4-comma][images-fig2]](https://example.com)
+
+*Figure 3. Brain storm*
+
 ## Introduction and Related Works
 
+[![4-comma][images-fig2]](https://example.com)
 
+*Figure 3  . key sentence for each representing a panel*
 
 
 
@@ -63,10 +70,23 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 ## Methodology
 [![4-comma][images-fig2]](https://example.com)
 
-*Figure 2. key sentence for each representing a panel*
+*Figure 4. key sentence for each representing a panel*
 
 [![4-comma][images-fig3]](https://example.com)
-*Figure 3. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 5. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 6. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 7. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 8. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 9. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+
 
 
 This project used AI to create a Yonkoma (4-panel) manga. The goal was to keep the story and images consistent and make the process easy to repeat. The story was divided into four panels, each showing a key moment. A short sentence was written to help AI generate accurate images for each scene.
@@ -77,6 +97,9 @@ AI was chosen instead of hand drawing because it was faster, more flexible, and 
 ## Result and Future Work
 this project studied how AI can help make Yonkoma (4-panel) manga, focusing on automatic storytelling and keeping images consistent. The child means human creativity, and the robot means AI and technology, showing how they can work together to make better stories.
 AI helped make the story clearer, but keeping the same style in all panels was challenging. Changing the prompts fixed some problems, but manual editing was still needed. People said the pictures were interesting but not very emotional. In the future, the focus will be on stronger feelings and different styles, leading to a short film using AI tools.
+
+[![4-comma][images-fig3]](https://example.com)
+*Figure 10. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 ## Conclusion
 This study shows how AI changes Yonkoma manga by improving storytelling while maintaining the art style. It proves AI aids creativity, but challenges remain, such as ensuring image uniformity. In the future, AI should adapt to various styles, improving creativity while preserving the artist’s unique touch, balancing automation and expression.
@@ -127,6 +150,12 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig1]: images/fig1.png
 [images-fig2]: images/fig2.png
 [images-fig3]: images/fig3.png
+[images-fig4]: images/fig3.png
+[images-fig5]: images/fig3.png
+[images-fig6]: images/fig3.png
+[images-fig8]: images/fig3.png
+[images-fig9]: images/fig3.png
+[images-fig10]: images/fig3.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
