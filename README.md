@@ -61,7 +61,7 @@ This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawi
 
 [![4-comma][images-fig3]](https://example.com)
 
-*Figure 3  . table A:Mathematical formulas were applied to generate and transform symmetrical geometric patterns. *
+*Figure 3  . table A :Mathematical formulas were applied to generate and transform symmetrical geometric patterns. *
 
 
 
@@ -77,15 +77,15 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis are arranged to keep the pattern centered.*
 
 [![4-comma][images-fig5]](https://example.com)
-*Figure 5. Figure 1.9 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
+*Figure 5. Figure 4.9 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
 
 [![4-comma][images-fig6]](https://example.com)
-*Figure 6.  used shape 1.8 to create a new module. The shapes were mirrored in diagonal, vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.
+*Figure 6.  used shape 4.8 to create a new module. The shapes were mirrored in diagonal, vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.
 
    *
 
 [![4-comma][images-fig7]](https://example.com)
-*Figure 7.I selected shape 1.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.
+*Figure 7.I selected shape 4.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.
 
 .*
 
@@ -93,7 +93,7 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 *Figure 8. The selected module was made using shape 7 (without rotation). First, it was mirrored vertically, then horizontally. To expand the design, I mirrored it again on both horizontal and vertical axes, in both directions.*
 
 [![4-comma][images-fig9]](https://example.com)
-*Figure 9. I selected shape 1 and changed the square frame into a rectangle. In shape 9.3, the module was formed and then expanded step by step along the vertical, horizontal, vertical, and horizontal axes. At the end, I added color.*
+*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle. In shape 9.3, the module was formed and then expanded step by step along the vertical, horizontal, vertical, and horizontal axes. At the end, I added color.*
 
 
 
