@@ -42,7 +42,9 @@ Traditional patterns are important because they are related to history. Still, t
 
 *Figure 1.
 
-AI can help more people create and fix drawings, even if they are not artists. It is not only for experts—anyone can use it to explore ideas and make art. With AI, beginners can repair pictures, create characters, and improve their stories. People also work with AI by giving instructions and making changes to get better results. But sometimes, AI makes mistakes, so fixing is needed.
+ recreated one of the traditional patterns in CAD. The original version was hand-drawn, and using CAD, I produced new generations of the pattern based on that design.
+
+
 
 <!-- Abstract -->
 ## Abstract
