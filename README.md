@@ -22,10 +22,10 @@ Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University 
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: The Artist Robot >
+  <h3 align="center">assigment 2: Geametric pattern >
 
     
-I created a four-panel Yonkoma about how AI helps restore a damaged drawing. In the story, a child’s drawing is ruined by spilled water. A robot offers to fix it using AI, and the child watches as a new version is created with DALL·E 3 and Visual ChatGPT. In the final panel, the child holds the printed AI-generated drawing and smiles;it looks just like their original. This comic explores how AI can support creative restoration, even for beginners, and shows the collaboration between humans and AI in the artistic process.
+Traditional patterns are important because they are related to history. Still, they are in danger of being forgotten because drawing them- incredibly complex ones based on geometry- is very difficult and time-consuming. In this project, I decided to take one of those traditional patterns and recreate it using technical tools. My goal was to give the pattern a modern concept and bring it back to life while making the process easier with software. I used CAD for all the steps, including design and geometry. These patterns often had very complex geometry in the past. Still, the software can handle those calculations automatically through commands, so we no longer need to do hard geometric math
 
   <p align="center">
     <br />
