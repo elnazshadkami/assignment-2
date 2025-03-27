@@ -90,6 +90,7 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 .*
 
 [![4-comma][images-fig8]](https://example.com)
+
 *Figure 8. The selected module was made using shape 7 (without rotation). First, it was mirrored vertically, then horizontally. To expand the design, I mirrored it again on both horizontal and vertical axes, in both directions.*
 
 [![4-comma][images-fig9]](https://example.com)
