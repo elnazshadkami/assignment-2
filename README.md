@@ -75,16 +75,16 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 [![4-comma][images-fig5]](https://example.com)
 *Figure 5. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig6]](https://example.com)
 *Figure 6. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig7]](https://example.com)
 *Figure 7. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig8]](https://example.com)
 *Figure 8. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig9]](https://example.com)
 *Figure 9. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 
@@ -98,7 +98,7 @@ AI was chosen instead of hand drawing because it was faster, more flexible, and 
 this project studied how AI can help make Yonkoma (4-panel) manga, focusing on automatic storytelling and keeping images consistent. The child means human creativity, and the robot means AI and technology, showing how they can work together to make better stories.
 AI helped make the story clearer, but keeping the same style in all panels was challenging. Changing the prompts fixed some problems, but manual editing was still needed. People said the pictures were interesting but not very emotional. In the future, the focus will be on stronger feelings and different styles, leading to a short film using AI tools.
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][images-fig10]](https://example.com)
 *Figure 10. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 ## Conclusion
