@@ -150,12 +150,13 @@ VIZA 626 Class Website: [https://sites.google.com/view/viza626/](https://sites.g
 [images-fig1]: images/fig1.png
 [images-fig2]: images/fig2.png
 [images-fig3]: images/fig3.png
-[images-fig4]: images/fig3.png
-[images-fig5]: images/fig3.png
-[images-fig6]: images/fig3.png
-[images-fig8]: images/fig3.png
-[images-fig9]: images/fig3.png
-[images-fig10]: images/fig3.png
+[images-fig4]: images/fig4.png
+[images-fig5]: images/fig5.png
+[images-fig6]: images/fig6.png
+[images-fig7]: images/fig7.png
+[images-fig8]: images/fig8.png
+[images-fig9]: images/fig9.png
+[images-fig10]: images/fig10.png
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
