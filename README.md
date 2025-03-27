@@ -80,16 +80,20 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 *Figure 5. Figure 1.9 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
 
 [![4-comma][images-fig6]](https://example.com)
-*Figure 6. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 6.  used shape 1.8 to create a new module. The shapes were mirrored in diagonal, vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.
+
+   *
 
 [![4-comma][images-fig7]](https://example.com)
-*Figure 7. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 7.I selected shape 1.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.
+
+.*
 
 [![4-comma][images-fig8]](https://example.com)
-*Figure 8. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 8. The selected module was made using shape 7 (without rotation). First, it was mirrored vertically, then horizontally. To expand the design, I mirrored it again on both horizontal and vertical axes, in both directions.*
 
 [![4-comma][images-fig9]](https://example.com)
-*Figure 9. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
+*Figure 9. I selected shape 1 and changed the square frame into a rectangle. In shape 9.3, the module was formed and then expanded step by step along the vertical, horizontal, vertical, and horizontal axes. At the end, I added color.*
 
 
 
