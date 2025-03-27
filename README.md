@@ -42,7 +42,7 @@ Traditional patterns are important because they are related to history. Still, t
 
 *Figure 1.
 
- recreated one of the traditional patterns in CAD. The original version was hand-drawn, and using CAD, I produced new generations of the pattern based on that design.
+I recreated one of the traditional patterns in CAD. The original version was hand-drawn, and using CAD, I produced new generations of the pattern based on that design.
 
 
 
