@@ -1,6 +1,6 @@
 
 # Geometric pattern-Assignment_02
-Assignment 1 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
+Assignment 2 for Generative AI and Design, VIZA 626 at Texas A&amp;M University (Spring 2025)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
@@ -46,12 +46,8 @@ AI can help more people create and fix drawings, even if they are not artists. I
 
 <!-- Abstract -->
 ## Abstract
-This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawing is fixed using DALL·E 3 and Visual ChatGPT. AI is not only for automation but also supports creativity. It makes artistic work easier, helps beginners, and improves storytelling. Future research will develop AI for even better results.
+In this project I create geometric patterns that are symmetrical and reflect along vertical (x=0) and horizontal (y=0) and slanted axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
 <!-- Introduction and Related Works -->
-
-
-
-
 ## Introduction and Related Works
 
 [![4-comma][images-fig2]](https://example.com)
@@ -65,11 +61,7 @@ This study looks at how AI helps Yonkoma storytelling. A child’s damaged drawi
 
 
 
-AI is changing how Yonkoma (4-Koma) manga is made by mixing old storytelling with new technology. Yonkoma manga started in Japan in the early 20th century and tells short but strong stories in four panels. At first, people drew it by hand, but later, it became digital. Now, AI tools help improve the process. Advanced AI models like DALL-E 3 create high-quality manga images from text[1]. This ensures all panels have the same artistic style. Also, Visual ChatGPT lets people modify AI-made images by giving feedback and making adjustments[2].
-
-AI makes manga production faster, more flexible, and more accurate. However, problems remain, such as keeping a stable visual style and making sure images fit the story. To fix this, people save AI settings and structured prompts to get consistent results[3].
-
-This study explores how AI is changing Yonkoma manga. AI automates repetitive tasks, allowing people to focus more on storytelling. This helps them be more creative while keeping the manga’s unique style. As AI improves, it will enhance efficiency and artistic expression. AI will play a bigger role in digital manga and change how it is created in the future. Using AI instead of old methods will redefine manga creation.
+Islamic geometric patterns are important in art and architecture because they are an archetype and heritage for Iran [1]. I chose the pictures of clay cups and paintings in this book [2] and recreate and generate more. In the past, artists who drew geometric patterns relied on traditional tools such as the compass and set square rather than digital software. They spent more time on precise manual calculations and understanding geometric principles, making the process complex [1]. I recreated six traditional geometric patterns and used four axes that are in table 555 for making reflection [2]. I understood that CAD Computer-Aided Design software is used to increase the designer's productivity, improve the design quality, and create a database for manufacturing. CAD output is often electronic files for print or other manufacturing operations[3]. With CAD, I can draw shapes much faster and more efficiently than old tools like the compass and set square. One challenge is that digital patterns can lose the handmade feeling of traditional art that is part of our heritage and can be forgotten over time. However, CAD is a powerful tool because it makes design faster and more adaptable for different creative projects in the digital world.
 
 ## Methodology
 [![4-comma][images-fig4]](https://example.com)
@@ -98,27 +90,34 @@ This study explores how AI is changing Yonkoma manga. AI automates repetitive ta
 
 
 
-This project used AI to create a Yonkoma (4-panel) manga. The goal was to keep the story and images consistent and make the process easy to repeat. The story was divided into four panels, each showing a key moment. A short sentence was written to help AI generate accurate images for each scene.
-To ensure consistency, prompts included character expressions (sad, happy), objects (glass, spilled water, painting tools), actions (explaining, recreating), and the robot’s appearance (a screen on its chest). Prompts were tested and refined multiple times to improve results. Images were generated using DALL-E 3, but sometimes AI made mistakes. To fix this, prompts were adjusted, Visual ChatGPT was used for corrections like expressions and lighting, and sometimes, manual editing was needed.
-Challenges included keeping character details consistent, ensuring small objects like the glass or the girl’s hair color appeared correctly, and maintaining background and lighting continuity. These issues were solved using reference images, refined prompts, and use photoshop.
-AI was chosen instead of hand drawing because it was faster, more flexible, and allowed for easy modifications. Structured prompts ensured others could follow the same process and achieve similar results, making AI a strong alternative to traditional illustration methods.
+My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by reflecting the shape along α β δ γ axes that are  listed in Table 5555. 
+I realized the main pattern was created in a square, so I drew a square by this point A, B, A', B' and drew a rhombus inside the square(figure 4.3) 
+Arc is drawn from A center and R= AA1/2 (figure 4.4), and reflect along slanted line(BB’) (figure 4.5), 
+If BB' is L 
+α. x + y = L ; (x,y) → (L - y,L - x) and finally all arcs reflected along vertical axe 
+β. x=0 (figure 4.6). D1A1 is divided by 3, m, and n, draws a line perpendicular to the arc, and reflects along β and δ. y=0 . Other shapes were generated from figure 4, which is from the main concept in clay and painting. Figure 5 is generated from figure 4.6 and reflected along β figures (5.2, 5.4) and δ figures (5.3, 5.5). Figure 6 is generated from figure 4.8, and the fragment separated from the original shape and reflected about the γ axis (y=x) is:
+(x,y)→(y,x)
+and reflated again along β figures (6.4,6.6) and δ figures (6.5. 6.7).
+Figure 7 is generated from figure 4.9 and rotated until it becomes horizontal (figure 7.3) and reflected along β figures ( 7.4,7.5, 7.8) and δ figures (7.6,7.7). Figure 8 is also generated from 4.9 reflected along δ figures ( 8.3,8.4,8.7) and β figures (8.5, 8.6). Figure 9 is generated from 4.3 by changing the frame to a rectangle instead of a square figure (9.3), and the isolated fragment was extended that is intersects the rectangle figure 9.4. The figure 9.4 is reflected along β figures (9.5, 9.7) and δ figures (9.6, 9.8). 
+
+
 
 ## Result and Future Work
-this project studied how AI can help make Yonkoma (4-panel) manga, focusing on automatic storytelling and keeping images consistent. The child means human creativity, and the robot means AI and technology, showing how they can work together to make better stories.
-AI helped make the story clearer, but keeping the same style in all panels was challenging. Changing the prompts fixed some problems, but manual editing was still needed. People said the pictures were interesting but not very emotional. In the future, the focus will be on stronger feelings and different styles, leading to a short film using AI tools.
-
+In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated six new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.7 and 8.7). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
 [![4-comma][images-fig10]](https://example.com)
 *Figure 10. From structured descriptions to refined images—DALL-E 3 generates, Visual ChatGPT perfects.*
 
 ## Conclusion
-This study shows how AI changes Yonkoma manga by improving storytelling while maintaining the art style. It proves AI aids creativity, but challenges remain, such as ensuring image uniformity. In the future, AI should adapt to various styles, improving creativity while preserving the artist’s unique touch, balancing automation and expression.
+In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated six new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.7 and 8.7). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
 <!-- Bibliography -->
 ## Bibliography
-[1] Betker, James, et al. "Improving Image Generation with Better Captions.” arXiv preprint arXiv:2309.12345, 2023, https://arxiv.org/abs/2309.12345. Accessed 28 Feb. 2025.
+[1].Critchlow, Keith. Islamic Patterns: An Analytical and Cosmological Approach. Thames & Hudson, 1976.
+Available on Archive.org
+https://archive.org/details/islamicpatterns00crit
 
-[2] Wu, C., et al. “Visual ChatGPT: Talking, Drawing, and Editing with Visual Foundation Models.” Microsoft Research Asia, 2023, https://arxiv.org/abs/2303.04671.
+[2] Broug, Eric. Islamic Geometric Patterns. Thames & Hudson, 2008, https://www.amazon.com/Islamic-Geometric-Patterns-Eric-Broug/dp/050028721X
 
-[3] Liu, V., et al. “3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows.” Autodesk Research, 2023, https://doi.org/10.1145/3563657.3596098.
+[3] Bhatt, D., et al. “Computer Aided Design (CAD).” ResearchGate, 2022, https://www.researchgate.net/publication/358140456_Computer_Aided_Design_CAD.
 
 
 
