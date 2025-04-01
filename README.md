@@ -99,7 +99,7 @@ F5: Reflection about X=0  *
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting, rotation, and scaling. Each step adds more details.
+*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting. Each step adds more details.
 T6=F9∘F8∘ F7∘ F6∘ F5∘ F4∘ F3∘ F2∘ F1∘
 F1:Diagonal reflection X+Y=L
 
@@ -171,7 +171,7 @@ Scaling (75% enlargement)
 
 Two  and one  reflection
 
-Rotation 35
+Rotation 90
 
 A sequence of reflections including multiple diagonal reflections 
 
