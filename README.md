@@ -48,7 +48,7 @@ I recreated one of the traditional patterns in CAD. The original version was han
 
 <!-- Abstract -->
 ## Abstract
-In this project I create geometric patterns that are symmetrical and reflect along vertical (x=0) and horizontal (y=0) and diagonal axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
+In this project I create geometric patterns that are symmetrical and reflect  along vertical (x=0) and horizontal (y=0) and diagonal axes. The concept is forming clay cup and paintings that they draw by hand and traditional. I created it on cad that is clear software for drawing geometric patterns with adding mathematical comments. All parents is generated from the concept. I want to show new geometric pattens that are so different and unique, but they are related to a basic pattern that is my concept and the relationship between traditional art and digital which is related to geometry and mathematical. 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
@@ -79,7 +79,7 @@ Islamic geometric patterns are important in art and architecture because they ar
 
 [![4-comma][images-fig5]](https://example.com)
 *Figure 5. Figure 4.6 was used as the base to design a new repeating module. 
-T5=T5=F5∘F4∘F3∘F2∘F1 where:
+T5=F5∘F4∘F3∘F2∘F1 where:
 F1: Reflection about X=0 
 
 F2: Reflection about Y=0
@@ -113,6 +113,7 @@ F8:Vertical reflection X=0
 F9:Vertical reflection X=0 *
 
 [![4-comma][images-fig7]](https://example.com)
+
 *Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.
 T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
 R :A rotation to align with the axes
@@ -154,6 +155,7 @@ F9:Y=0 reflection
 F10:Y=0  reflection*
 
 [![4-comma][images-fig9]](https://example.com)
+
 *Figure 9. I selected shape 4.3 and changed the square frame into a rectangle.
 T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
 A complex pattern built with:
@@ -258,12 +260,12 @@ T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ 
 
 
 ## Result and Future Work
-In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated five new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.7 and 8.7). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
+In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated five new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.13 and 8.11). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
 [![4-comma][images-fig10]](https://example.com)
 *Figure 10. The recreated model (Figure 4) was textured using Photoshop, with colors that match the artwork on the painting.*
 
 ## Conclusion
-In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated six new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical and based on them and using some software that is best for drawing mathematics, I can make more shapes in a short time. In traditional arts, people draw anything with hand details. Still, based on my mathematical command of CAD, like mirrors, I just drew half of the shapes because I reflected them on some exams that I mentioned, and they are created. Also, I tried mathematical command for the exact shape (figure 7,8) but changed the sequences for reflation axes, and the final shape is so different that they came from the same shape. Changing the mathematical axe sequences made the final shapes in Figures (7.7 and 8.7). I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
+In this project, based on the mathematical equation and one shape from traditional art, I recreated it with technical methods and generated six new generations that are completely unique but related to Figure 4. I wanted to show mathematical equations, which are the primary way to make geometric patterns because they are mostly symmetrical. Using some software that is best for drawing mathematics. I will use CAD to draw more axes to create precise, complex geometric shapes. Then, I will use Photoshop to turn the models into actual patterns with materials. It allows for flexibility and control when designing textures.
 <!-- Bibliography -->
 ## Bibliography
 [1].Critchlow, Keith. Islamic Patterns: An Analytical and Cosmological Approach. Thames & Hudson, 1976.
