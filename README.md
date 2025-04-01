@@ -78,7 +78,15 @@ Islamic geometric patterns are important in art and architecture because they ar
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis (If BB' is L α. x + y = L ; (x,y) → (L - y,L - x) ) are arranged to keep the pattern centered.*
 
 [![4-comma][images-fig5]](https://example.com)
-*Figure 5. Figure 4.6 was used as the base to design a new repeating module. It was reflected twice along the horizontal axis and twice along the vertical axis, resulting in an expanded and more detailed pattern.*
+*Figure 5. Figure 4.6 was used as the base to design a new repeating module. A reflection about the vertical axis.
+
+/A reflection about the horizontal axis.
+
+/Another reflection about the vertical axis.
+
+/Another reflection about the horizontal axis.
+
+/A final reflection about the vertical axis.*
 
 [![4-comma][images-fig6]](https://example.com)
 
@@ -96,15 +104,86 @@ Islamic geometric patterns are important in art and architecture because they ar
 
 
 
-My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by reflecting the shape along α β δ γ axes that are  listed in Table A. 
+My pattern is symmetrical, so i used CAD software-the best tool for drawing precise geometric shapes-to construct my pattern. I extended this symmetry operation by mathematical equation like reflecting, scaling, rotating based on the figure A formula.
+ 
 I realized the main pattern was created in a square, so I drew a square by this point A, B, A', B' and drew a rhombus inside the square(figure 4.3) 
-Arc is drawn from A center and R= AA1/2 (figure 4.4), and reflect along slanted line(BB’) (figure 4.5), 
-If BB' is L 
-α. x + y = L ; (x,y) → (L - y,L - x) and finally all arcs reflected along vertical axe 
-β. x=0 (figure 4.6). D1A1 is divided by 3, m, and n, draws a line perpendicular to the arc, and reflects along β and δ. y=0 . Other shapes were generated from figure 4, which is from the main concept in clay and painting. Figure 5 is generated from figure 4.6 and reflected along β figures (5.2, 5.4) and δ figures (5.3, 5.5). Figure 6 is generated from figure 4.8, and the fragment separated from the original shape and reflected about the γ axis (y=x) is:
-(x,y)→(y,x)
-and reflated again along β figures (6.4,6.6) and δ figures (6.5. 6.7).
-Figure 7 is generated from figure 4.9 and rotated until it becomes horizontal (figure 7.3) and reflected along β figures ( 7.4,7.5, 7.8) and δ figures (7.6,7.7). Figure 8 is also generated from 4.9 reflected along δ figures ( 8.3,8.4,8.7) and β figures (8.5, 8.6). Figure 9 is generated from 4.3 by changing the frame to a rectangle instead of a square figure (9.3), and the isolated fragment was extended that is intersects the rectangle figure 9.4. The figure 9.4 is reflected along β figures (9.5, 9.7) and δ figures (9.6, 9.8). 
+Arc is drawn from A center and R= AA1/2 (figure 4.4),
+D1A1 is divided by 3, m, and n, draws a line perpendicular to the arc, and reflects so: 
+T4=F1∘F2∘F3 
+F1:(x,y)→(L−y,L−x)
+F2:(x,y)→(−x,y) 
+F3:(x,y)→(x,−y)
+
+Other shapes were generated from figure 4. Figure 5 is generated from figure 4.6 with reflecting so:
+T5=F5∘F4∘F3∘F2∘F1
+F1:(x,y)→(−x,y) 
+F2:(x,y)→(x,−y)
+F3:(x,y)→(−x,y) 
+F4:(x,y)→(x,−y) 
+F5:(x,y)→(−x,y) 
+
+
+
+
+Figure 6 is generated from figure 4.8 with reflecting:
+T6=F1 F2∘ F3∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘
+Where:
+1.	F1:(x,y)→(L−y,L−x) 
+2.	F2:(x,y)→(−x,y)
+3.	F3:(x,y)→(x,−y) 
+4.	F4:(x,y)→(L−y,L−x)
+5.	F5:(x,y)→(−x,y)
+6.	F6:(x,y)→(x,−y)
+7.	F7:(x,y)→(x,−y)
+8.	F8:(x,y)→(−x,y)
+9.	F9:(x,y)→(−x,y)
+Figure 7 is generated from figure 4.9 with rotation, reflecting and scaling so :
+T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
+Where:
+1.	R:(x,y)→Rθ(x,y)R : (x,y) 
+2.	F1:(x,y)→(−x,y)
+3.	S:(x,y)→(1.75x,1.75y)— Scaling by 75% enlargement
+4.	F2:(x,y)→(x,−y)
+5.	F3:(x,y)→(x,−y)
+6.	F4:(x,y)→(x,−y)
+7.	F5:(x,y)→(x,−y)
+8.	F6:(x,y)→(−x,−y) 
+9.	F7:(x,y)→(−x,y)
+10.	F8:(x,y)→(x,−y)
+11.	F9:(x,y)→(x,−y)
+12.	F10:(x,y)→(x,−y)
+Figure 8 is also generated from 4.9 with reflecting so:
+T8=F1∘F2∘F3∘F4∘F5∘F6∘F7∘F8∘F9∘F10
+Where:
+1.	F1:(x,y)→(−x,y)
+2.	F2:(x,y)→(x,−y)
+3.	F3:(x,y)→(y,x) 
+4.	F4:(x,y)→(−x,y)
+5.	F5:(x,y)→(x,−y)
+6.	F6:(x,y)→(−x,−y) 
+7.	F7:(x,y)→(−x,y)
+8.	F8:(x,y)→(x,−y)
+9.	F9:(x,y)→(x,−y)
+10.	F10:(x,y)→(x,−y)
+Figure 9 is generated from 4.3 with scaling, reflecting and rotating so:
+T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
+1.	S:(x,y)→(1.75x,1.75y)____Scaling by 75% enlargement
+2.	F1:(x,y)→(x,−y)
+3.	F2:(x,y)→(−x,y) 
+4.	F3:(x,y)→(−x,y) 
+5.	R:(x,y)→Rθ(x,y)
+6.	F4:(x,y)→(y,x) 
+7.	F5:(x,y)→(−x,y) 
+8.	F6:(x,y)→(x,−y) 
+9.	F7:(x,y)→(x,−y) 
+10.	F8:(x,y)→(x,−y) 
+11.	F9:(x,y)→(y,x) 
+12.	F10:(x,y)→(y,x) 
+13.	F11:(x,y)→(y,x) 
+14.	F12:(x,y)→(y,x) 
+15.	F13:(x,y)→(y,x) 
+16.	F14:(x,y)→(y,x) 
+
 
 
 
