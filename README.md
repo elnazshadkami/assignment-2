@@ -123,7 +123,7 @@ F9:Vertical reflection X=0 *
 
 *Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.
 T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
-R :A rotation to align with the axes
+R :35
 
 F1:An initial reflection X=0
 
