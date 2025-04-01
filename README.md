@@ -90,17 +90,17 @@ Islamic geometric patterns are important in art and architecture because they ar
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6.  used shape 4.8 to create a new module. The shapes were mirrored in diagonal[ (y=x) is: (x,y)→(y,x)], vertical, and horizontal directions. Then, the final module was mirrored again on vertical and horizontal axes, and I added color to complete the design.*
+*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting, rotation, and scaling. Each step adds more details.*
 
 [![4-comma][images-fig7]](https://example.com)
-*Figure 7.I selected shape 4.9. A segment from the central star was chosen and rotated. Then, it was mirrored twice along the vertical axis and expanded. After that, I mirrored it twice along the horizontal axis, and once more vertically. Finally, I added color to complete the design.*
+*Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.*
 
 [![4-comma][images-fig8]](https://example.com)
 
-*Figure 8. The selected module was made using shape 7 (without rotation). First, it was mirrored vertically, then horizontally. To expand the design, I mirrored it again on both horizontal and vertical axes, in both directions.*
+*Figure 8. The selected module was made using shape 7 (without rotation).then I reflected for some parts or all parts, and scaling. The steps show how the pattern becomes more complex. The red lines help to explain the reflection along vertical and horizental axes. In the last step (8.11), the final pattern is inside a polygonal frame..*
 
 [![4-comma][images-fig9]](https://example.com)
-*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle. In shape 9.3, the module was formed and then expanded step by step along the vertical, horizontal, vertical, and horizontal axes. At the end, I added color.*
+*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle. 55555555555555555555555555555555555555555555555.*
 
 
 
