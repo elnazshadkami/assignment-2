@@ -60,13 +60,13 @@ In this project I create geometric patterns that are symmetrical and reflect alo
 [![4-comma][images-fig3]](https://example.com)
 
 *Figure 3  . formula A :T = Total transformation of the whole pattern
-                        p = Part index (each part may be transformed differently).
-                        P = Total number of parts
-                        Fip=Thei-th reflection within part 𝑝
-                        kp= Number of reflections applied to part𝑝
-                        Ssp= Scaling applied to part 𝑝 (optional, if no scaling, set it to identity transformation)
-                       ​Rmp= Rotation applied to part 𝑝
-                      Tnp= Translation (move) applied to part.*
+                        /p = Part index (each part may be transformed differently).
+                        /P = Total number of parts
+                        /Fip=Thei-th reflection within part 𝑝
+                        /kp= Number of reflections applied to part𝑝
+                        /Ssp= Scaling applied to part 𝑝 (optional, if no scaling, set it to identity transformation)
+                       /​Rmp= Rotation applied to part 𝑝
+                      /Tnp= Translation (move) applied to part.*
 
 
 
