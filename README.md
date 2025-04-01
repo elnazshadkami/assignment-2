@@ -78,29 +78,95 @@ Islamic geometric patterns are important in art and architecture because they ar
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis (If BB' is L α. x + y = L ; (x,y) → (L - y,L - x) ) are arranged to keep the pattern centered.*
 
 [![4-comma][images-fig5]](https://example.com)
-*Figure 5. Figure 4.6 was used as the base to design a new repeating module. A reflection about the vertical axis.
+*Figure 5. Figure 4.6 was used as the base to design a new repeating module. 
+T5=T5=F5∘F4∘F3∘F2∘F1 where:
+F1: Reflection about X=0 
 
-/A reflection about the horizontal axis.
+F2: Reflection about Y=0
 
-/Another reflection about the vertical axis.
+F3: Reflection about X=0
 
-/Another reflection about the horizontal axis.
+F4: Reflection about Y=0
 
-/A final reflection about the vertical axis.*
+F5: Reflection about X=0  *
 
 [![4-comma][images-fig6]](https://example.com)
 
-*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting, rotation, and scaling. Each step adds more details.*
+*Figure 6.  used shape 4.8 to create a new module then apply transformations like reflecting, rotation, and scaling. Each step adds more details.
+T6=F9∘F8∘ F7∘ F6∘ F5∘ F4∘ F3∘ F2∘ F1∘
+F1:Diagonal reflection X+Y=L
+
+F2:Vertical reflection X=0
+
+F3:Horizontal reflection Y=0
+
+F4:Diagonal reflection X+Y=L
+
+F5:Vertical reflection X=0
+
+F6:Horizontal reflection Y=0
+
+F7:Horizontal reflection Y=0
+
+F8:Vertical reflection X=0
+
+F9:Vertical reflection X=0 *
 
 [![4-comma][images-fig7]](https://example.com)
-*Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.*
+*Figure 7.I selected shape 4.9.and used many times, with reflecting, rotations, and scale changes. The pattern grows more and more complex in every step. Red lines help to show how parts reflected along harizental and vertical axes. At the end (7.12), I get a finished shape inside a polygon border.
+T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
+R :A rotation to align with the axes
+
+F1:An initial reflection X=0
+
+S:A 75% enlargement scaling
+
+F2-F10:A sequence of 9 reflections, some of them repeated, including:
+
+Multiple  reflections Y=O
+
+ X=0 reflections
+
+A combined X=O AND Y=0  and  reflection*
 
 [![4-comma][images-fig8]](https://example.com)
 
-*Figure 8. The selected module was made using shape 7 (without rotation).then I reflected for some parts or all parts, and scaling. The steps show how the pattern becomes more complex. The red lines help to explain the reflection along vertical and horizental axes. In the last step (8.11), the final pattern is inside a polygonal frame..*
+*Figure 8. The selected module was made using shape 7 (without rotation).then I reflected for some parts or all parts, and scaling. The steps show how the pattern becomes more complex. The red lines help to explain the reflection along vertical and horizental axes. In the last step (8.11), the final pattern is inside a polygonal frame.
+T8=F1∘F2∘F3∘F4∘F5∘F6∘F7∘F8∘F9∘F10
+F1:X=0 reflection
+
+F2:Y=0reflection
+
+F3:Y=X Diagonal reflection 
+
+F4:X=0 reflection
+
+F5:Y=0 reflection
+
+F6:Combined X=0 and Y=0 reflection
+
+F7:X=0 reflection
+
+F8:Y=0 reflection
+
+F9:Y=0 reflection
+
+F10:Y=0  reflection*
 
 [![4-comma][images-fig9]](https://example.com)
-*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle. 55555555555555555555555555555555555555555555555.*
+*Figure 9. I selected shape 4.3 and changed the square frame into a rectangle.
+T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
+A complex pattern built with:
+
+Scaling (75% enlargement)
+
+Two  and one  reflection
+
+Rotation 35
+
+A sequence of reflections including multiple diagonal reflections 
+
+Final reflections to complete the symmetry.*
 
 
 
@@ -137,10 +203,12 @@ Where:
 7.	F7:(x,y)→(x,−y)
 8.	F8:(x,y)→(−x,y)
 9.	F9:(x,y)→(−x,y)
+
+
 Figure 7 is generated from figure 4.9 with rotation, reflecting and scaling so :
 T7=F10∘F9∘F8∘F7∘F6∘F5∘F4∘F3∘F2∘S∘F1∘R
 Where:
-1.	R:(x,y)→Rθ(x,y)R : (x,y) 
+1.	R:(x,y)→Rθ(x,y)R : (x,y) θ=35
 2.	F1:(x,y)→(−x,y)
 3.	S:(x,y)→(1.75x,1.75y)— Scaling by 75% enlargement
 4.	F2:(x,y)→(x,−y)
@@ -152,6 +220,7 @@ Where:
 10.	F8:(x,y)→(x,−y)
 11.	F9:(x,y)→(x,−y)
 12.	F10:(x,y)→(x,−y)
+	
 Figure 8 is also generated from 4.9 with reflecting so:
 T8=F1∘F2∘F3∘F4∘F5∘F6∘F7∘F8∘F9∘F10
 Where:
@@ -165,13 +234,14 @@ Where:
 8.	F8:(x,y)→(x,−y)
 9.	F9:(x,y)→(x,−y)
 10.	F10:(x,y)→(x,−y)
+
 Figure 9 is generated from 4.3 with scaling, reflecting and rotating so:
 T9=S∘F1∘ F2∘ F3∘ R∘ F4∘ F5∘ F6∘ F7∘ F8∘ F9∘ F10∘ F11∘ F12∘ F13∘ F14∘
 1.	S:(x,y)→(1.75x,1.75y)____Scaling by 75% enlargement
 2.	F1:(x,y)→(x,−y)
 3.	F2:(x,y)→(−x,y) 
 4.	F3:(x,y)→(−x,y) 
-5.	R:(x,y)→Rθ(x,y)
+5.	R:(x,y)→Rθ(x,y) θ=35
 6.	F4:(x,y)→(y,x) 
 7.	F5:(x,y)→(−x,y) 
 8.	F6:(x,y)→(x,−y) 
