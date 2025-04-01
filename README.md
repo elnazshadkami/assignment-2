@@ -77,11 +77,12 @@ Islamic geometric patterns are important in art and architecture because they ar
 
 *Figure 4. I recreated the pattern from an image that was related to my concept. The main design was inside a square, based on the idea I had. The shapes look archaic, and the vertical,horizontal and diagonal axis (If BB' is L α. x + y = L ; (x,y) → (L - y,L - x) ) are arranged to keep the pattern centered.*
 T4=F1∘F2∘F3 
+
 F1: Reflection about X=0 
 
 F2: Reflection about Y=0
 
-F1:Diagonal reflection X+Y=L
+F3:Diagonal reflection X+Y=L
 
 [![4-comma][images-fig5]](https://example.com)
 *Figure 5. Figure 4.6 was used as the base to design a new repeating module. 
